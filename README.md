@@ -1,5 +1,4 @@
-````markdown
-# awsvaultutil
+# Aws Vault Util
 
 `awsvaultutil` is a Go utility library for working with AWS SDK v2 using credentials managed by [`aws-vault`](https://github.com/99designs/aws-vault).  
 It provides functions to programmatically fetch temporary AWS credentials from an `aws-vault` profile and generate an AWS SDK v2 configuration, making it easy to use AWS services securely across projects.
@@ -21,7 +20,6 @@ It provides functions to programmatically fetch temporary AWS credentials from a
 ```bash
 go get github.com/yourusername/awsvaultutil@latest
 ```
-````
 
 ---
 
