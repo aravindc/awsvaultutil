@@ -1,7 +1,3 @@
-Got it! Here’s the updated `README.md` with the **Apache 2.0 license** mentioned instead of MIT:
-
----
-
 ````markdown
 # awsvaultutil
 
