@@ -18,7 +18,7 @@ It provides functions to programmatically fetch temporary AWS credentials from a
 ## Installation
 
 ```bash
-go get github.com/yourusername/awsvaultutil@latest
+go get github.com/aravindc/awsvaultutil@latest
 ```
 
 ---
@@ -28,7 +28,7 @@ go get github.com/yourusername/awsvaultutil@latest
 ### Import the library
 
 ```go
-import "github.com/yourusername/awsvaultutil"
+import "github.com/aravindc/awsvaultutil"
 ```
 
 ### Get AWS credentials from aws-vault
@@ -40,7 +40,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/yourusername/awsvaultutil"
+    "github.com/aravindc/awsvaultutil"
 )
 
 func main() {
@@ -64,7 +64,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/yourusername/awsvaultutil"
+    "github.com/aravindc/awsvaultutil"
     "github.com/aws/aws-sdk-go-v2/service/ec2"
 )
 
