@@ -1,4 +1,4 @@
-module github.com/AravindanChockalingamKaizen/awsvaultutil
+module github.com/aravindc/awsvaultutil
 
 go 1.25.2
 
